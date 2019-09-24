@@ -23,4 +23,8 @@ void main
 	strcpy(dest, src);
 }
  
+
 *****本地编辑*****
+
+
+

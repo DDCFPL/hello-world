@@ -23,3 +23,6 @@ void main
 	strcpy(dest, src);
 }
  
+
+
+****远程编辑****
